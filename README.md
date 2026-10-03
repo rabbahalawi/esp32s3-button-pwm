@@ -18,7 +18,7 @@ Hold a button to enable an LED, then use a potentiometer to control its brightne
 | PWM LED | GPIO 7 | PWM output |
 
 ## Wiring
-![Circuit](wiring.png)
+![Circuit](wiring.jpg)
 
 ## How the Code Works
 **Constants:** The four pin numbers are declared as const, so they cannot change while the program is running. Using names also makes the code easier to understand and change.
